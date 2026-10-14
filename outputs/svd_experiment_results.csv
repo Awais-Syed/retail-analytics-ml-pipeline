@@ -1,0 +1,6 @@
+Components,Fit Time (seconds),Relative Reconstruction Error,Explained Variance (%)
+10,0.06,0.898,15.4
+20,0.06,0.8758,19.52
+50,0.13,0.8322,27.33
+100,0.31,0.7808,36.05
+200,0.89,0.702,48.31

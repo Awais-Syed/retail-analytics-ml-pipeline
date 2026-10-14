@@ -1,0 +1,7 @@
+Measure,PCA,Truncated SVD
+Components (k),100.0,100.0
+Fit time (seconds),0.48,0.31
+"Stored factor size (MB, float32 estimate)",3.5,3.5
+Explained variance (%),36.16999816894531,36.04999923706055
+Hit Rate@10 (%),24.83,25.88
+Baseline Hit Rate@10 (%),26.87,26.87

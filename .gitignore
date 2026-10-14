@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# Raw and processed datasets
+data/
+
+# Generated data files
+outputs/*.pkl
+outputs/*.npz
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/

@@ -1,0 +1,9 @@
+Metric,Value
+Customers,5474
+Products,3688
+Matrix Shape,"(5474, 3688)"
+Non-zero Entries,413942
+Sparsity (%),97.95
+Dense Memory (MB),77.01
+Sparse Memory (MB),3.18
+Memory Reduction (%),95.87
